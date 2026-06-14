@@ -9,7 +9,6 @@
 -Generative AI
 -AI Agents
 
-##Currently
 Intern - Generative AI and AI Agents at Softpro India
 <!--
 
